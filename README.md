@@ -234,4 +234,4 @@ A continuación se demuestra que los servidores están corriendo correctamente e
 
 
 
-![image.png](img/image 1.png)
+![image.png](img/image1.png)
