@@ -226,12 +226,12 @@ A continuación se demuestra que los servidores están corriendo correctamente e
 
 ### 4.1. Servidor Apache (`PabloApache`)
 
-*Aqui va la captura de pantalla de `systemctl status apache2`*
 
-![image.png](image.png)
+
+![image.png](img/image.png)
 
 ### 4.2. Servidor de Base de Datos (`PabloMysql`)
 
-*Aqui va  la captura de pantalla de `systemctl status mariadb`*
 
-![image.png](image%201.png)
+
+![image.png](img/image 1.png)
